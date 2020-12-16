@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PracticalWork4
 {
-    class Money
+    public class Money
     {
         private double parValue;
         private int quantityOfBanknotes;
